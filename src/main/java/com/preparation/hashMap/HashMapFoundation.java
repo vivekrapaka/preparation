@@ -1,7 +1,6 @@
 package com.preparation.hashMap;
 
 import java.util.*;
-import java.util.Map.Entry;
 
 public class HashMapFoundation {
 
